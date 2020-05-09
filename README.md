@@ -1,5 +1,4 @@
-# Yet another Crypto-PAn implementation for Python
-
+# Attack on Python implementation of Crypto-PAn
 ## Overview
 
 Fork of the CryptoPAn python implementation of the prefix preserving scheme for IP addresses presented in the paper referenced below.
